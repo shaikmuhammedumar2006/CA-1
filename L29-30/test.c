@@ -19,3 +19,7 @@ int main() {
         case 1:
             printf("You selected: Computer Engineering\n");
             break;
+	    
+	case 2:
+            printf("You selected: Electrical Engineering\n");
+            break;
