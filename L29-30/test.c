@@ -8,10 +8,6 @@ int main() {
     printf("2. Electrical Engineering\n");
     printf("3. Mechanical Engineering\n");
     printf("4. Civil Engineering\n");
-    printf("5. Chemical Engineering\n");
-    printf("6. Aerospace Engineering\n");
-    printf("7. Software Engineering\n");
-    printf("8. Environmental Engineering\n");
     printf("Enter your choice (1-8): ");
     scanf("%d", &choice);
 
@@ -27,3 +23,12 @@ int main() {
 	case 3:
             printf("You selected: Mechanical Engineering\n");
             break;
+	    
+	case 4:
+            printf("You selected: Civil Engineering\n");
+            break;
+
+	      }
+
+    return 0;
+}
