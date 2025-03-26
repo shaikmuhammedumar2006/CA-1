@@ -14,6 +14,8 @@ int main() {
     switch (choice) {
         case 1:
             printf("You selected: Computer Engineering\n");
+	          printf("You selected: Computer Engineering\n");
+
             break;
 	    
 	case 2:
