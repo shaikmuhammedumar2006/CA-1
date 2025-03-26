@@ -18,6 +18,7 @@ int main() {
 	    
 	case 2:
             printf("You selected: Electrical Engineering\n");
+	                printf("You selected: Electrical Engineering\n");
             break;
 
 	case 3:
