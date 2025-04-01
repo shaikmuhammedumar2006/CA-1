@@ -8,7 +8,7 @@ int main() {
     printf("2. Electrical Engineering\n");
     printf("3. Mechanical Engineering\n");
     printf("4. Civil Engineering\n");
-    printf("Enter your choice (1-8): ");
+    printf("Enter your choice (1-4): ");
     scanf("%d", &choice);
 
     switch (choice) {
